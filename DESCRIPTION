@@ -11,5 +11,5 @@ RoxygenNote: 7.3.1
 Imports:
     httr,
     jsonlite
-
-
+URL: https://github.com/oliwiaddybowska/OpenWeatherR
+BugReports: https://github.com/oliwiaddybowska/OpenWeatherR/issues
