@@ -1,8 +1,9 @@
 Package: OpenWeatherR
 Title: A Comprehensive Interface to the OpenWeather API
 Version: 0.0.0.9000
-Authors@R: person("Oliwia", "Dybowska", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+Authors@R: c(
+        person("Oliwia", "Dybowska", , "81933@student.ue.poznan.pl"),
+        person("Konrad", "Wasiak", , "83837@student.ue.poznan.pl"))
 Description: Provides easy access to the OpenWeather API, allowing users to query current weather, forecasts, historical weather, air pollution data, and more. The package includes functions to handle API keys securely, retrieve weather data for multiple cities, and convert city names to geographic coordinates.
 License: MIT + file LICENSE
 Encoding: UTF-8
