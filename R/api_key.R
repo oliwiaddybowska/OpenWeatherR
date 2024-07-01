@@ -17,3 +17,4 @@ get_api_key <- function() {
   if (key == "") stop("API key is not set. Use set_api_key() to set it.")
   return(key)
 }
+
